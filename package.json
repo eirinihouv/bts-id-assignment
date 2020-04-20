@@ -13,6 +13,8 @@
 	},
 	"author": "Eirini Chouvarda",
 	"dependencies": {
-		"@framer/colebemis.feather-icons": "^1.2.0"
+		"@framer/addison.pagination": "^1.18.0",
+		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/edoardo.ios-kit": "^1.6.0"
 	}
 }

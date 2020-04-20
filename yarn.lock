@@ -25,6 +25,11 @@
   resolved "https://registry.framer.com/@framer/edoardo.ios-kit/-/@framer/edoardo.ios-kit-1.6.0.tgz#4106996f04874240464cf2ff2dadd75219c96226"
   integrity sha512-XiPljPZc9MpsjGzbW9qSlTkIOo+zTc8+/7myaYqJ7G0ZK4Cyg3YjPidueMWChACkFADxdeVr/HCCAkg9rVOGLQ==
 
+"@framer/steveruizok.responsive-layout-component@^1.17.0":
+  version "1.17.0"
+  resolved "https://registry.framer.com/@framer/steveruizok.responsive-layout-component/-/@framer/steveruizok.responsive-layout-component-1.17.0.tgz#f49357261e8e7da96ba8dcc0ae00939298996ab2"
+  integrity sha512-8afzSi3C9lrPiVUrT0cglxXu+CVnKKa25rp2NHg7VA/iHpcqekgYDXeqqk1BKGH+Za0ljefN8MtRN0fBW2POxg==
+
 "@types/prop-types@*":
   version "15.7.0"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.0.tgz#4c48fed958d6dcf9487195a0ef6456d5f6e0163a"

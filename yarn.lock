@@ -25,6 +25,21 @@
   resolved "https://registry.framer.com/@framer/edoardo.ios-kit/-/@framer/edoardo.ios-kit-1.6.0.tgz#4106996f04874240464cf2ff2dadd75219c96226"
   integrity sha512-XiPljPZc9MpsjGzbW9qSlTkIOo+zTc8+/7myaYqJ7G0ZK4Cyg3YjPidueMWChACkFADxdeVr/HCCAkg9rVOGLQ==
 
+"@framer/framer.device-skin-apple-iphone-xs-spacegrey@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.framer.com/@framer/framer.device-skin-apple-iphone-xs-spacegrey/-/@framer/framer.device-skin-apple-iphone-xs-spacegrey-1.0.0.tgz#d9f524f5a6a4afe8cb413c00f3f16fe4d52ee09e"
+  integrity sha512-BWmGnCvnPmYel3ytJ1eiNxugHTj3e7eiih8L1b3RZtB4ZjgF6HiCMp+nsB0wAOJrMS2sA+fEYMDzxqybX9Dukg==
+
+"@framer/framer.device-skin-apple-macbook-air@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.framer.com/@framer/framer.device-skin-apple-macbook-air/-/@framer/framer.device-skin-apple-macbook-air-1.0.0.tgz#2c4602af994e71b9867ad59263620aa15920f20a"
+  integrity sha512-TPFh3BMwEeVr7B7CZOJjkTlhJSHWZKucN1w77wWMSS1Pvzn/P1SJIwBAHGRp5jL450ceuaSUn5R0+2rMLP8IQQ==
+
+"@framer/framer.device-skin-apple-macbook@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.framer.com/@framer/framer.device-skin-apple-macbook/-/@framer/framer.device-skin-apple-macbook-1.0.0.tgz#629be902072e943c637706178181a8b0622aa045"
+  integrity sha512-Jofz9Hq5lzrYYbS8PegzDqmn/JYnPZIvlU6slaJ+UgrxQyX7Bez+zPUigvRIA7emk0DiQ4sH1L9JQnXXBtRLpg==
+
 "@framer/steveruizok.responsive-layout-component@^1.17.0":
   version "1.17.0"
   resolved "https://registry.framer.com/@framer/steveruizok.responsive-layout-component/-/@framer/steveruizok.responsive-layout-component-1.17.0.tgz#f49357261e8e7da96ba8dcc0ae00939298996ab2"

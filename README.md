@@ -1,5 +1,5 @@
-<h1> Project </h1>
-<h3> This project is a website concept for a skateboarding online store. </h3>
+<h2> Project </h2>
+<h4> This project is a website concept for a skateboarding online store. </h4>
 
-<h1> Tools used </h1>
-<h3> The Design was made using Framer X and using the Frame API for ReactJS. </h3>
+<h2> Tools used </h2>
+<h4> The Design was made using Framer X and using the Frame API for ReactJS. </h4>

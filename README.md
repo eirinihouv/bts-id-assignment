@@ -1,3 +1,5 @@
-This is a concept for a skateboarding online store.
+##Prohject
+This project is a website concept for a skateboarding online store.
 
-The Design was made using Framer X and the Frame API for React.
+##Tools used
+The Design was made using Framer X and using the Frame API for ReactJS.

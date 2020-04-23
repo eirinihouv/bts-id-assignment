@@ -1,5 +1,6 @@
 <h2> Project </h2>
 This project is a website concept for a skateboarding online store.
+<br></br>
 
 <h2> Contents </h2>
 
@@ -21,9 +22,11 @@ Collections
 Clothing
 Top nav
 Burger Menu
+<br></br>
 
 
 <h2> Tools used </h2>
 The Design was made using the following tools:
 - Framer X
 - Frame API for ReactJS
+<br></br>
